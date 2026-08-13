@@ -2,8 +2,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-import static javax.swing.UIManager.put;
-
 public class HashMapDemo {
     public static void main(String[] args) {
 
